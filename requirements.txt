@@ -1,0 +1,7 @@
+fvcore
+mediapipe
+onnxruntime
+onnxruntime-gpu
+insightface
+opencv-python>=4.8.0
+svglib
